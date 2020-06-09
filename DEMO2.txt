@@ -11,8 +11,17 @@ DSFSDFD
 
 đâsd
 
+<<<<<<< HEAD
 đâsdasadsasdádasd
 
 đâsdsadas
 
 dsds
+=======
+đâsdasádasdsad
+đâs
+
+đâsdas
+
+đasdasdasd
+>>>>>>> tamcode
